@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 19a84250150291541b16060dcfb45a92
+timeCreated: 1498228614
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dieMusic: {fileID: 8300000, guid: fd4232eed4724a042bbea24b948cede2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
